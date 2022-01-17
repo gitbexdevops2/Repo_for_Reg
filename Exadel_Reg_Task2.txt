@@ -1,0 +1,2 @@
+Bash = ps -aux | grep root > someTextFile.txt
+
