@@ -1,0 +1,6 @@
+1. Check is if Server has access to internet
+2. Ping from client to Server
+3. Check port 22 on Server
+4. Check port 22 on Client
+5. Check Firewall rules on Server
+6. Dislable antivirus on Clinet 
